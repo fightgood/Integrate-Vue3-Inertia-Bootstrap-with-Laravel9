@@ -6,7 +6,7 @@ Before we dive in deep, we just want to make sure we have all the tools we need.
 
 Please note that I'm using Laravel 9.37.0 and PHP 8.0.24.
 
-Making sure we are in the desired folder we're going to require the Laravel's installer globally and then use it to create a new app called "**laravel9-vue3-inertia-adminLTE**" (this will automatically create the folder with the same name).
+Making sure we are in the desired folder we're going to require the Laravel's installer globally and then use it to create a new app called "**laravel9-vue3-inertia-bootstrap**" (this will automatically create the folder with the same name).
 
 ### 1.1 Create Project
 
